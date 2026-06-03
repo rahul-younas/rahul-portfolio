@@ -5,7 +5,7 @@ const experiences = [
   {
     title: "MERN Stack Development Intern",
     company: "ARFA Tower Incubator - DHA Phase 2 Campus",
-    period: "2024 - 2025 (3 Months)",
+    period: "2024 - 2025 (4 Months)",
     description: "Gained hands-on experience in building full-stack web applications using MERN stack. Collaborated with a team of developers on various projects and learned industry best practices."
   },
   {
